@@ -3528,7 +3528,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Bank: $100'
+  m_text: 'Bank: $1000'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 37462c271ffe8a04c9880a0593c45c3d, type: 2}
   m_sharedMaterial: {fileID: 7069066330603779334, guid: 37462c271ffe8a04c9880a0593c45c3d, type: 2}
