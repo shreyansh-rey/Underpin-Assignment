@@ -34,9 +34,10 @@ The project focuses on:
 ## Option 1 — Run Locally Through Browser
 1. Open the project repository.
 2. Navigate to:
-Builds/WebGL/
+Build/
 
-3. Host the folder using a local web server.
+3. Run the `run.bat` file if on windows
+Otherwise host the folder using a local web server.
 
 Example using Python:
 python -m http.server 8000
