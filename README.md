@@ -88,3 +88,11 @@ Reel animations were implemented using Unity Coroutines and `Time.deltaTime` for
 A snapping system was created to ensure symbols always align cleanly to fixed reel slots after spinning.
 
 ---
+
+# Controls
+
+- Up and Down Arrows: Navigate between available bets
+- Enter: Select a bet
+- Lever: Left-Click to spin the slot machine
+
+---
